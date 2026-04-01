@@ -1,0 +1,16 @@
+buku_id,judul,genre,penulis,rating,tersedia
+1,Laskar Pelangi,Novel,Andrea Hirata,4.8,Ya
+2,Bumi Manusia,Novel Sejarah,Pramoedya Ananta,4.9,Ya
+3,Atomic Habits,Self-Help,James Clear,4.7,Ya
+4,Sapiens,Sejarah,Yuval Noah Harari,4.6,Ya
+5,The Alchemist,Novel,Paulo Coelho,4.5,Ya
+6,Thinking Fast and Slow,Psikologi,Daniel Kahneman,4.4,Ya
+7,Clean Code,Teknologi,Robert C. Martin,4.8,Ya
+8,Deep Work,Self-Help,Cal Newport,4.6,Ya
+9,Dune,Fiksi Ilmiah,Frank Herbert,4.7,Ya
+10,Filosofi Teras,Filsafat,Henry Manampiring,4.5,Ya
+11,Hujan,Novel,Tere Liye,4.3,Ya
+12,The Pragmatic Programmer,Teknologi,Andrew Hunt,4.7,Ya
+13,Educated,Biografi,Tara Westover,4.6,Ya
+14,Midnight Library,Novel,Matt Haig,4.4,Ya
+15,Python Crash Course,Teknologi,Eric Matthes,4.8,Ya
